@@ -1,0 +1,169 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "7d518aae-19e5-4d5d-9695-2ff4a3c78bda",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "16\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(11+5)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "3cc3728f-39e1-4132-9c07-606327719e4d",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "16\n",
+      "6\n",
+      "55\n",
+      "2.2\n",
+      "1\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(11+5)\n",
+    "print(11-5)\n",
+    "print(11*5)\n",
+    "print(11/5)\n",
+    "print(11%5)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "f06f0fac-e85f-4868-8cbe-e95732c7a9ee",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "2\n",
+      "161051\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(11//5)\n",
+    "print(11**5)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "0fb686f9-ebf9-4bbd-9339-92098091dacb",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "9\n",
+      "-1\n",
+      "20\n"
+     ]
+    }
+   ],
+   "source": [
+    "a=4\n",
+    "b=5\n",
+    "print(a+b)\n",
+    "print(a-b)\n",
+    "print(a*b)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 22,
+   "id": "e39de459-5627-4d5f-ad13-2bfa006e6224",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      " Enter name  :  eeeeee\n",
+      "Enter age       :  32\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Name : eeeeee\n",
+      " Age : 32\n",
+      "cgpa : 3.92\n",
+      "***************************\n"
+     ]
+    }
+   ],
+   "source": [
+    "'''\n",
+    "#name=\" Rasel \"\n",
+    "age=\" 20\"\n",
+    "cgpa=\"3.92\"\n",
+    "\n",
+    "print(\"**************************\")\n",
+    "print(\"Student information\")\n",
+    "#print(\"---------------------------\")#\n",
+    "'''\n",
+    "name = input(\" Enter name  : \")\n",
+    "age=input(\"Enter age       : \")\n",
+    "\n",
+    "#8888888888888888888888888888888888888888888888\n",
+    "\n",
+    "\n",
+    "\n",
+    "print(\"Name : \"+name)\n",
+    "print(\" Age : \"+age)\n",
+    "print(\"cgpa : \"+cgpa)\n",
+    "print(\"***************************\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "85719a2b-c454-4d96-a0e7-c08b168f984f",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
